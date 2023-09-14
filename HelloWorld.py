@@ -1,2 +1,6 @@
 print('HelloWorld')
 print('echo')
+print('echo')
+print('echo')
+print('echo')
+print('go away')
